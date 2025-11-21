@@ -1,0 +1,9 @@
+[2025-11-21 22:31:15,528] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-11-21 22:31:15,528] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2025-11-21 22:31:15,544] 97 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[2025-11-21 22:31:16,043] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-11-21 22:31:16,059] 97 werkzeug - INFO -  * Debugger PIN: 691-601-422
+[2025-11-21 22:31:30,921] 12 root - INFO - I am testing the logs
+[2025-11-21 22:31:30,921] 97 werkzeug - INFO - 127.0.0.1 - - [21/Nov/2025 22:31:30] "GET / HTTP/1.1" 200 -
+[2025-11-21 22:31:30,996] 97 werkzeug - INFO - 127.0.0.1 - - [21/Nov/2025 22:31:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
