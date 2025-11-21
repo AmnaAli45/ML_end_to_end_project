@@ -1,0 +1,20 @@
+[2025-11-21 23:18:38,196] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-11-21 23:18:38,196] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2025-11-21 23:18:38,224] 97 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[2025-11-21 23:18:38,878] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-11-21 23:18:38,890] 97 werkzeug - INFO -  * Debugger PIN: 691-601-422
+[2025-11-21 23:18:51,926] 25 root - INFO - Error occured in script D:\DataScience\end_to_end_project\ML_end_to_end_project\app.py line no 22 error message I am testing Eceptions
+[2025-11-21 23:18:51,926] 97 werkzeug - INFO - 127.0.0.1 - - [21/Nov/2025 23:18:51] "GET / HTTP/1.1" 200 -
+[2025-11-21 23:18:51,989] 97 werkzeug - INFO - 127.0.0.1 - - [21/Nov/2025 23:18:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-11-21 23:18:52,327] 25 root - INFO - Error occured in script D:\DataScience\end_to_end_project\ML_end_to_end_project\app.py line no 22 error message I am testing Eceptions
+[2025-11-21 23:18:52,327] 97 werkzeug - INFO - 127.0.0.1 - - [21/Nov/2025 23:18:52] "GET / HTTP/1.1" 200 -
+[2025-11-21 23:20:19,924] 97 werkzeug - INFO -  * Detected change in 'D:\\DataScience\\end_to_end_project\\ML_end_to_end_project\\app.py', reloading
+[2025-11-21 23:20:19,925] 97 werkzeug - INFO -  * Detected change in 'd:\\datascience\\end_to_end_project\\ml_end_to_end_project\\app.py', reloading
+[2025-11-21 23:20:19,973] 97 werkzeug - INFO -  * Detected change in 'D:\\DataScience\\end_to_end_project\\ML_end_to_end_project\\app.py', reloading
+[2025-11-21 23:20:19,989] 97 werkzeug - INFO -  * Detected change in 'd:\\datascience\\end_to_end_project\\ml_end_to_end_project\\app.py', reloading
+[2025-11-21 23:20:20,491] 97 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[2025-11-21 23:20:34,494] 97 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[2025-11-21 23:20:37,410] 97 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[2025-11-21 23:20:44,559] 97 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[2025-11-21 23:22:06,939] 97 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
