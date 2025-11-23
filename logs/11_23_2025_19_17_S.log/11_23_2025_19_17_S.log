@@ -1,0 +1,21 @@
+[2025-11-23 19:17:02,938] 25 root - INFO - Data ingestion started
+[2025-11-23 19:17:02,938] 28 root - INFO - Data read from local system
+[2025-11-23 19:17:03,084] 36 root - INFO - Split the data into train and test sets
+[2025-11-23 19:17:03,196] 43 root - INFO - Data Ingestion completed......
+[2025-11-23 19:17:03,320] 73 root - INFO - Outlier Removal in train data
+[2025-11-23 19:17:03,357] 78 root - INFO - Outlier Removal in test data
+[2025-11-23 19:17:03,357] 28 root - INFO - Transformation Started
+[2025-11-23 19:17:03,357] 85 root - INFO - Splitting train data into dependent and independent features
+[2025-11-23 19:17:03,357] 90 root - INFO - Splitting test data into dependent and independent features
+[2025-11-23 19:17:03,365] 95 root - INFO - Applying transformation on train and test data
+[2025-11-23 19:17:28,683] 25 root - INFO - Data ingestion started
+[2025-11-23 19:17:28,683] 28 root - INFO - Data read from local system
+[2025-11-23 19:17:28,862] 36 root - INFO - Split the data into train and test sets
+[2025-11-23 19:17:28,977] 43 root - INFO - Data Ingestion completed......
+[2025-11-23 19:17:29,102] 73 root - INFO - Outlier Removal in train data
+[2025-11-23 19:17:29,130] 78 root - INFO - Outlier Removal in test data
+[2025-11-23 19:17:29,130] 28 root - INFO - Transformation Started
+[2025-11-23 19:17:29,130] 85 root - INFO - Splitting train data into dependent and independent features
+[2025-11-23 19:17:29,130] 90 root - INFO - Splitting test data into dependent and independent features
+[2025-11-23 19:17:29,130] 95 root - INFO - Applying transformation on train and test data
+[2025-11-23 19:17:29,260] 99 root - INFO - Applying preprocessor object  on train and test data
